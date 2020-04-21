@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name = "lint",
-    version = "0.0.1",
+    version = "0.0.2",
     author = "mohitchugh",
     author_email="author@example.com",
     description="A small example package",
