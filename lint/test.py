@@ -1,6 +1,3 @@
-from rules.rule1 import rule1test
+import linter
 
-
-def footest():
-    print("footest")
-    rule1test()
+linter.footest()
