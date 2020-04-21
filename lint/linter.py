@@ -1,6 +1,6 @@
-import rule1
-
+from . import rule1
 
 def footest():
-    print("called footest")
-    lint.rule1.rule1test()
+    print("called footest2")
+    print("calling rule1 via footest")
+    rule1.rule1test()
