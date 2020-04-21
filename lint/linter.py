@@ -1,4 +1,4 @@
-import lint.rule1
+import rule1
 
 
 def footest():
